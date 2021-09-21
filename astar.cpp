@@ -1,5 +1,5 @@
 #include "astar.h"
-#include "dijkstra.h"
+
 
 SearchResult AStar::findPath(Input i)
 {
